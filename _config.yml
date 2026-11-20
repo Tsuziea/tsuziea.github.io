@@ -1,0 +1,11 @@
+title: Tsuziea
+description: Github Page
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
