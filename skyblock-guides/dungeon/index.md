@@ -22,12 +22,13 @@ has_toc: false
 4. 箭矢造成的击退减弱，不再受无敌帧影响
 5. <details>
    <summary>附魔规则</summary>
-
-   - Rend、Cleave、Dragon Tracer 被禁用
-   - 来自 Vampirism 的治疗被降至 0.1x
-   - Venomous 的减速效果大幅降低
-
+   <ul>
+     <li>Rend、Cleave、Dragon Tracer 被禁用</li>
+     <li>来自 Vampirism 的治疗被降至 0.1x</li>
+     <li>Venomous 的减速效果大幅降低。</li>
+   </ul>
    </details>
+
 6. 对 Boss 的伤害超过一定阈值时会被降低，具体阈值取决于 Boss。
    > 地牢里阈值应该是 1m，超过 1m 的部分会被 0.1x *(Not confirmed)*
 
