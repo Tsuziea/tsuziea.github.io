@@ -57,6 +57,3 @@ Learn more at [Loot Calculator](https://calc.pigicial.com/).
 1. A 不一定每根箭都触发 Mega Crit；Duplex 的额外箭也只有前一根箭 20% 的伤害，所以实际需要更多箭。
 2. 如果 Debuff 施加得太慢，A 的叠箭会被吞掉，导致龙死得更慢。
 3. Lethality 降低的是当前防御，因此施加顺序会影响结果。
-___
-
-[返回内容索引](../index.md)
