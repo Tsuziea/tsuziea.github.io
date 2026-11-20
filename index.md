@@ -7,4 +7,3 @@ nav_order: 1
 I'm ツ, still learning.
 
 ## My Projects
-[Dungeon-Guides](https://github.com/Tsuziea/SkyBlock-Guides)
