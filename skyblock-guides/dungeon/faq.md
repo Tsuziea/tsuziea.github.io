@@ -17,25 +17,25 @@ nav_order: 5
   3. 抽中的物品会从 Loot Table 中移除，同时扣除相应的 Quality
   4. 重复上述步骤直到 Chest Quality 用完
 ---
-在 M7，Bedrock Chest 的 Quality 是 420；Handle 和 Scroll 的 Quality 都是 380。
+在 M7，Bedrock Chest 的 Quality 是 420；Handle 和 Scroll 的 Quality 都是 380
 
-如果想在第 2 个槽位出货，需要满足：第 1 个槽位的 Quality < Chest Quality - 380。
+如果想在第 2 个槽位出货，需要满足：第 1 个槽位的 Quality < Chest Quality - 380
 
-假设你有 Treasure Artifact（1.03x）、Boss Luck IV（+10）和满级 Catacomb Box（+13）。
+假设你有 Treasure Artifact（1.03x）、Boss Luck IV（+10）和满级 Catacomb Box（+13）
 
 **S+ 以下：**
 
 Chest Quality 为 `[(420 * 1.03) + 10 + 13] * 1.03 + 10 + 13 = 492`
 
-第 1 个槽位允许的最大 Quality 为 `492 - 380 = 112`。
+第 1 个槽位允许的最大 Quality 为 `492 - 380 = 112`
 
 **S+ 会在计算 Initial Quality 时乘以 1.05：**
 
 Chest Quality 为 `[(420 * 1.05 * 1.03) + 10 + 13] * 1.03 + 10 + 13 = 512`
 
-第 1 个槽位允许的最大 Quality 为 `512 - 380 = 132`。
+第 1 个槽位允许的最大 Quality 为 `512 - 380 = 132`
 
-综上，S+ 时即使第 1 个槽位是 Combo 2、No Pain No Gain 2，仍有机会在第 2 个槽位出货（S 则不能）。
+综上，S+ 时即使第 1 个槽位是 Combo 2、No Pain No Gain 2，仍有机会在第 2 个槽位出货（S 则不能）
 
 Learn more at [Loot Calculator](https://calc.pigicial.com/).
 
@@ -54,6 +54,6 @@ Learn more at [Loot Calculator](https://calc.pigicial.com/).
 
 注意：
 
-1. A 不一定每根箭都触发 Mega Crit；Duplex 的额外箭也只有前一根箭 20% 的伤害，所以实际需要更多箭。
-2. 如果 Debuff 施加得太慢，A 的叠箭会被吞掉，导致龙死得更慢。
-3. Lethality 降低的是当前防御，因此施加顺序会影响结果。
+1. A 不一定每根箭都触发 Mega Crit；Duplex 的额外箭也只有前一根箭 20% 的伤害，所以实际需要更多箭
+2. 如果 Debuff 太慢，A 的叠箭会被吞掉，导致龙死得更慢
+3. Lethality 降低的是当前防御，因此顺序会影响结果
