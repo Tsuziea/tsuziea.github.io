@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: 常见问题
 parent: Dungeon
 nav_order: 5
 ---
@@ -39,7 +39,7 @@ Chest Quality 为 `[(420 * 1.05 * 1.03) + 10 + 13] * 1.03 + 10 + 13 = 512`
 
 Learn more at [Loot Calculator](https://calc.pigicial.com/).
 
-### 为什么 Debuff 比 DPS 更重要
+## 为什么 Debuff 比 DPS 更重要
 以 P5 的龙为例，龙有 1b HP、2.5k DEF，Boss 减伤机制视为 10x。假设玩家 A 在 Clear 时使用 Duplex，最高打出 1b 伤害。
 
 根据 Wiki 上的公式：
