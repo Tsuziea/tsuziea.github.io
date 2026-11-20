@@ -4,12 +4,12 @@ parent: Dungeon
 nav_order: 3
 ---
 
-简称 BR, 目的是以最快的速度打开 Blood Room，M3 以下 `Mage` 通常能够独自完成（Solo BR）
+简称 BR，目的是以最快的速度打开 Blood Room。M3 以下 `Mage` 通常能够独自完成（Solo BR）。
 
 ### Door Camp
-指以最快的速度冲向下一个 Door，长按右键点门，若 BR 路上遇到 Quiz，在不影响点门的情况下，由 Door Camp 的人进入
+指以最快的速度冲向下一个 Door，长按右键点门。若 BR 路上遇到 Quiz，在不影响点门的情况下，由 Door Camp 的人进入。
 
-这样做的好处有：
+这样做的好处：
 1. 在拿到钥匙的第一时间开门
 2. 方便其它人 Leap
 
@@ -26,9 +26,9 @@ M4 及以上 Mage 无法独自完成 BR 时，通常由 Mage 和 Archer 双人�
 - 清几乎所有的怪
 
 ### Trio BR
-对于 M7 和 一些注重速度的队伍，通常由 Healer, Mage, Archer 三人共同完成
+对于 M7 和一些注重速度的队伍，通常由 Healer、Mage、Archer 三人共同完成。
 
-除另外申明，
+除非另有说明：
 
 `Healer`
 - Door Camp
@@ -53,13 +53,13 @@ M4 及以上 Mage 无法独自完成 BR 时，通常由 Mage 和 Archer 双人�
 - 对于怪群存在多分支的房间，如 Balcony, Archway 等，清主分支
 - 对于怪群上下分布的房间，如 Slime，Mage，清处于上层的怪
 
-br完成后，
+BR 完成后：
 - `Mage` 应在 Blood Room 附近找尽可能多的秘密，
 - `Archer`, `Healer` 原路返回 Fairy，找无人的分支 clear
 
 
-> Slime 是一个存在争议的房间。理论上 Slime 应由 `Mage` 清两侧，`Archer` 清中间，因为中间更开阔，箭矢不会被阻挡。实际情况是，pf 大部分 `Mage` 都清中间的怪，因此默认 `Archer` 清两侧
+> Slime 是一个存在争议的房间。理论上 Slime 应由 `Mage` 清两侧、`Archer` 清中间，因为中间更开阔，箭矢不会被阻挡。实际情况是，PF 中大部分 `Mage` 都清中间的怪，因此默认 `Archer` 清两侧。
 
 ___
 
-[Go back to Content](/README.md)
+[返回内容索引](../index.md)

@@ -7,7 +7,7 @@ nav_order: 6
 
 使用 Odin Waypoints 导入
 
-```
+```json
 [
 {
 "area": "F7_STORM",

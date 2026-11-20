@@ -4,22 +4,20 @@ parent: Slayer
 nav_order: 1
 ---
 
-[Go back to content](/README.md)
+[返回内容索引](../index.md)
 
 ### Weapon
 1. Livid's Dagger
 2. Shadow Fury
 3. Giant's Sword
 4. Hyperion
-5. <details> <summary> Slayer 特化刀 </summary>
-
+5. Slayer 特化刀：
    - Halberd of the Shredded
    - Sting
    - Pooch Sword
    - Atomsplit
-   - Pyrochaos Dagger, Deathripper Dagger
+   - Pyrochaos Dagger、Deathripper Dagger
    - Silver-Twist Karambit
-   </details>
 
 ### Armor
 #### Melee
