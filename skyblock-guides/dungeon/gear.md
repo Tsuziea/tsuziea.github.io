@@ -10,7 +10,7 @@ nav_order: 1
 |:-----|:------------------------------------------------------------------|
 | Bow  | Rapid Juju Shortbow<br>Precise Terminator<br>Spiritual Terminator |
 | RCM  | Heroic Hyperion                                                   |
-| LCM  | Fabled Hyperion<br>Withered `Dark Claymore                        |
+| LCM  | Fabled Hyperion<br>Withered Dark Claymore                         |
 
 ## Armor
 
