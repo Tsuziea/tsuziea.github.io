@@ -1,7 +1,7 @@
 ---
 title: Clear
 parent: Dungeon
-nav_order: 5
+nav_order: 2
 ---
 
 从地牢开始到进入 Boss 的阶段称为 Clear，速度由 Blood Rush、Blood Camp 和 S+ 三者的用时共同决定。

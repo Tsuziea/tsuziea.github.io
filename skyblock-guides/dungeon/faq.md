@@ -1,7 +1,7 @@
 ---
 title: FAQ
 parent: Dungeon
-nav_order: 6
+nav_order: 5
 ---
 
 ## 为什么 M7 需要 S+
